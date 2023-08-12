@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://shushancao.blog/atom.xml" rel="self"/>
+  
+  <link href="http://shushancao.blog/"/>
+  <updated>2023-08-12T12:02:16.112Z</updated>
+  <id>http://shushancao.blog/</id>
+  
+  <author>
+    <name>书山草</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://shushancao.blog/2023/08/12/my-first-blog/"/>
+    <id>http://shushancao.blog/2023/08/12/my-first-blog/</id>
+    <published>2023-08-12T02:46:38.000Z</published>
+    <updated>2023-08-12T12:02:16.112Z</updated>
+    
+    <content type="html"><![CDATA[<p>用 hexo 搭建博客写的第一篇博文。</p><p>以前用 Bitcron渲染，最近才发现新文章同步不了了，只好另谋出路。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;用 hexo 搭建博客写的第一篇博文。&lt;/p&gt;
+&lt;p&gt;以前用 Bitcron渲染，最近才发现新文章同步不了了，只好另谋出路。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="我的生活" scheme="http://shushancao.blog/categories/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="折腾一下" scheme="http://shushancao.blog/tags/%E6%8A%98%E8%85%BE%E4%B8%80%E4%B8%8B/"/>
+    
+  </entry>
+  
+</feed>
