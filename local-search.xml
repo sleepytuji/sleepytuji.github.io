@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2023/08/12/my-first-blog/"/>
+    <url>/2023/08/12/my-first-blog/</url>
+    
+    <content type="html"><![CDATA[<p>用 hexo 搭建博客写的第一篇博文。</p><p>以前用 Bitcron渲染，最近才发现新文章同步不了了，只好另谋出路。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>我的生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>折腾一下</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
