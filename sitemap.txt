@@ -4,4 +4,5 @@ http://shushancao.blog/about/index.html
 http://shushancao.blog/
 http://shushancao.blog/tags/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D/
 http://shushancao.blog/tags/%E6%8A%98%E8%85%BE%E4%B8%80%E4%B8%8B/
+http://shushancao.blog/categories/%E8%AE%A4%E7%9C%9F%E6%80%9D%E8%80%83/
 http://shushancao.blog/categories/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB/
